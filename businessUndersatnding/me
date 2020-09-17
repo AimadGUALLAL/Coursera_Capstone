@@ -1,2 +1,0 @@
-#Business Understanding
-In order to reduce the frequency of car collisions in a city(I choose here a dataframe associated to Seattle city), I will use an algorithm which must be developed to predict the severity of an accident based on several facotrs such as : the weather, road and visibility conditions. When the conditions are bad, the model or algorithm must alert drivers to be carful. 
